@@ -330,6 +330,15 @@ figure.effect:hover p {
 
 	#profile .row * { text-align: center; }
 
+	#projects figure figcaption {
+		padding: 30px 30px;
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		height: 100%;
+		width: 100%;
+	}
+
 	#contact { padding-bottom: 60px; }
 }
 
