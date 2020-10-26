@@ -121,8 +121,12 @@ p.lead {
     border-color: #1c8784; 
 }
 
+
 /****/
 
+.description {
+	text-align: justify;
+}
 ul.no-bullets { 
 	list-style-type: none; 
 	margin: 0px; 
